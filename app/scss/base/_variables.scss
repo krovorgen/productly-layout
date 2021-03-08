@@ -1,1 +1,25 @@
-//
+%pop-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+
+%pop-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+}
+
+%pop-semi {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+%pop-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+}
+
+$title-color: #2f281e;
+$text-color: #544837;
+$link-color: #fff;
+$main-color: #f90;
+$bg-color: #f2f2f2;
